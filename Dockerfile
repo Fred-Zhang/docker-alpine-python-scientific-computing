@@ -20,6 +20,7 @@ RUN apk add --no-cache \
     pip install pandas && \
     pip install scipy && \
     pip install scikit-learn && \
+    pip install statsmodels && \
     pip install flask && \
     pip install gevent && \
     pip install gunicorn && \
